@@ -1,3 +1,4 @@
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/86024575/124412145-de65c880-dd1b-11eb-831b-3da2bca955a0.png)
 # An Analysis of Kickstarter Campaigns
 
 ##Overview
